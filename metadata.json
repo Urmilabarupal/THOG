@@ -1,0 +1,6 @@
+{
+  "name": "CCDL Fairway Links - Luxury Golf Equipment & Apparel India",
+  "description": "India's premier golf equipment store by Climate Change Digital Labs (CCDL). Handcrafted clubs, tour golf balls, custom fittings, luxury bags, and apparel with fast pan-India delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

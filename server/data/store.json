@@ -1,0 +1,1139 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "sku": "CCDL-DRV-AURUM9",
+      "name": "CCDL Aurum Titanium EVO 9.0° Driver",
+      "slug": "ccdl-aurum-titanium-evo-driver",
+      "brand": "CCDL Tour Edition",
+      "category": "golf-clubs",
+      "shortDescription": "Forged beta-titanium face with multi-axis carbon crown and adjustable hosel sleeve.",
+      "description": "Engineered in collaboration with aerospace aerodynamicists, the CCDL Aurum Titanium EVO maximizes ball speed across an expanded sweet zone. The lightweight carbon composite crown allows concentrated low-and-back tungsten weighting, generating piercing high-launch, low-spin trajectories suited for Indian course playing conditions.",
+      "regularPrice": 54999,
+      "salePrice": 48999,
+      "stockQuantity": 14,
+      "featured": true,
+      "status": "published",
+      "images": [
+        "/src/assets/images/golf_driver_titanium_pro_1794483678734.jpg"
+      ],
+      "hand": "Right-Handed",
+      "flex": "Stiff",
+      "rating": 4.9,
+      "reviewCount": 28,
+      "createdAt": "2026-01-15T10:00:00Z",
+      "specifications": [
+        {
+          "label": "Loft Angle",
+          "value": "9.0° (Adjustable +/- 1.5°)"
+        },
+        {
+          "label": "Head Volume",
+          "value": "460cc"
+        },
+        {
+          "label": "Clubhead Material",
+          "value": "Forged 6-4 Beta Titanium & Carbon"
+        },
+        {
+          "label": "Stock Shaft",
+          "value": "Fujikura Ventus TR Blue 60 (Stiff)"
+        },
+        {
+          "label": "Swing Weight",
+          "value": "D3"
+        },
+        {
+          "label": "Grip",
+          "value": "Golf Pride Tour Velvet 360 Align"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v1-1",
+          "name": "9.0° / Stiff Flex / Right-Hand",
+          "sku": "CCDL-DRV-AURUM9-ST",
+          "price": 48999,
+          "stock": 8,
+          "attributes": {
+            "loft": "9.0°",
+            "flex": "Stiff",
+            "hand": "Right-Handed"
+          }
+        },
+        {
+          "id": "v1-2",
+          "name": "10.5° / Regular Flex / Right-Hand",
+          "sku": "CCDL-DRV-AURUM10-RG",
+          "price": 48999,
+          "stock": 6,
+          "attributes": {
+            "loft": "10.5°",
+            "flex": "Regular",
+            "hand": "Right-Handed"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prod-2",
+      "sku": "BAG-CCDL-HRTG-01",
+      "name": "CCDL Heritage Handcrafted Leather Tour Staff Bag",
+      "slug": "ccdl-heritage-leather-tour-staff-bag",
+      "brand": "CCDL Tour Edition",
+      "category": "golf-bags",
+      "shortDescription": "Full-grain waterproof saddle leather in British Racing Green with antique brass fittings.",
+      "description": "Hand-stitched by master artisans using premium weather-treated saddle leather, this flagship tour staff bag features a 6-way velour-wrapped top divider, magnetic quick-access rangefinder pocket, dedicated umbrella sleeve, and integrated dual insulated beverage flasks.",
+      "regularPrice": 42000,
+      "salePrice": 38500,
+      "stockQuantity": 9,
+      "featured": true,
+      "status": "published",
+      "images": [
+        "/src/assets/images/golf_tour_leather_bag_1794483679825.jpg"
+      ],
+      "rating": 5,
+      "reviewCount": 16,
+      "createdAt": "2026-01-20T11:00:00Z",
+      "specifications": [
+        {
+          "label": "Material",
+          "value": "Full-Grain Waxed Saddle Leather"
+        },
+        {
+          "label": "Top Cuff",
+          "value": "9.5-inch 6-way velour divider"
+        },
+        {
+          "label": "Weight",
+          "value": "4.8 kg"
+        },
+        {
+          "label": "Pockets",
+          "value": "8 external zip pockets + 2 magnetic"
+        },
+        {
+          "label": "Strap",
+          "value": "Padded ergonomic 3-point harness"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v2-1",
+          "name": "Forest Green & Cognac Brown",
+          "sku": "BAG-CCDL-HRTG-GRN",
+          "price": 38500,
+          "stock": 6,
+          "attributes": {
+            "color": "Forest Green / Cognac"
+          }
+        },
+        {
+          "id": "v2-2",
+          "name": "Heritage Pitch Black",
+          "sku": "BAG-CCDL-HRTG-BLK",
+          "price": 38500,
+          "stock": 3,
+          "attributes": {
+            "color": "Pitch Black"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prod-3",
+      "sku": "SHOE-CCDL-MONACO-10",
+      "name": "CCDL Monaco Waterproof Spikeless Golf Shoes",
+      "slug": "ccdl-monaco-waterproof-spikeless-shoes",
+      "brand": "CCDL Tour Edition",
+      "category": "golf-shoes",
+      "shortDescription": "Italian waterproof calfskin leather with multi-directional high-traction TPU lug sole.",
+      "description": "Designed for effortless transition from the 18th green to the clubhouse lounge. Features a breathable HydroGuard waterproof membrane tested under monsoon downpours, OrthoLite eco-cushion insole for walking stamina, and dual-density EVA midsole absorbs ground impact.",
+      "regularPrice": 19999,
+      "salePrice": 16999,
+      "stockQuantity": 22,
+      "featured": true,
+      "status": "published",
+      "images": [
+        "/src/assets/images/golf_premium_shoes_1794483679581.jpg"
+      ],
+      "rating": 4.8,
+      "reviewCount": 34,
+      "createdAt": "2026-02-01T09:30:00Z",
+      "specifications": [
+        {
+          "label": "Upper",
+          "value": "100% Full-grain waterproof calfskin"
+        },
+        {
+          "label": "Outsole",
+          "value": "Multi-directional TPU hybrid traction"
+        },
+        {
+          "label": "Waterproof Guarantee",
+          "value": "2-Year Manufacturer Warranty"
+        },
+        {
+          "label": "Insole",
+          "value": "Removable OrthoLite Antimicrobial"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v3-1",
+          "name": "UK 8 / White & Racing Green",
+          "sku": "SHOE-MONACO-08",
+          "price": 16999,
+          "stock": 7,
+          "attributes": {
+            "size": "UK 8",
+            "color": "White / Racing Green"
+          }
+        },
+        {
+          "id": "v3-2",
+          "name": "UK 9 / White & Racing Green",
+          "sku": "SHOE-MONACO-09",
+          "price": 16999,
+          "stock": 9,
+          "attributes": {
+            "size": "UK 9",
+            "color": "White / Racing Green"
+          }
+        },
+        {
+          "id": "v3-3",
+          "name": "UK 10 / White & Racing Green",
+          "sku": "SHOE-MONACO-10",
+          "price": 16999,
+          "stock": 6,
+          "attributes": {
+            "size": "UK 10",
+            "color": "White / Racing Green"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prod-4",
+      "sku": "BALL-CCDL-TOURX-12",
+      "name": "CCDL Tour Urethane 3-Piece Golf Balls (Dozen)",
+      "slug": "ccdl-tour-urethane-golf-balls-dozen",
+      "brand": "CCDL Tour Edition",
+      "category": "golf-balls",
+      "shortDescription": "Cast thermoset urethane cover with 332 tetrahedral dimples for penetrating flight.",
+      "description": "Precision manufactured to strict aerodynamic tolerances. The ultra-soft high-energy polybutadiene core generates maximum initial ball speed off the driver face, while the cast urethane outer layer produces exceptional drop-and-stop spin control around the greens.",
+      "regularPrice": 4999,
+      "salePrice": 4299,
+      "stockQuantity": 65,
+      "featured": true,
+      "status": "published",
+      "images": [
+        "/src/assets/images/golf_tour_balls_pack_1794483680033.jpg"
+      ],
+      "rating": 4.9,
+      "reviewCount": 42,
+      "createdAt": "2026-01-28T14:15:00Z",
+      "specifications": [
+        {
+          "label": "Construction",
+          "value": "3-Piece Tour Caliber"
+        },
+        {
+          "label": "Cover Material",
+          "value": "Ultra-Soft Cast Thermoset Urethane"
+        },
+        {
+          "label": "Compression",
+          "value": "88 Compression Rating"
+        },
+        {
+          "label": "Dimple Pattern",
+          "value": "332 Aerodynamic Tetrahedral"
+        },
+        {
+          "label": "Quantity",
+          "value": "12 Balls per box (4 sleeves of 3)"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v4-1",
+          "name": "1 Dozen (12 Balls)",
+          "sku": "BALL-TOURX-12",
+          "price": 4299,
+          "stock": 45,
+          "attributes": {
+            "pack": "1 Dozen"
+          }
+        },
+        {
+          "id": "v4-2",
+          "name": "2 Dozen Value Pack (24 Balls)",
+          "sku": "BALL-TOURX-24",
+          "price": 7999,
+          "salePrice": 7599,
+          "stock": 20,
+          "attributes": {
+            "pack": "2 Dozen"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prod-5",
+      "sku": "CLB-TM-QI10-DRV",
+      "name": "TaylorMade Qi10 Max 10K MOI Driver",
+      "slug": "taylormade-qi10-max-driver",
+      "brand": "TaylorMade",
+      "category": "golf-clubs",
+      "shortDescription": "Historic 10,000 g/cm² moment of inertia with 60X Carbon Twist Face technology.",
+      "description": "The Qi10 Max unlocks unprecedented stability at impact. The 60X Carbon Twist Face is noticeably lighter than traditional titanium faces, optimizing energy transfer at off-center contact points for straighter fairway hits.",
+      "regularPrice": 62999,
+      "salePrice": 56999,
+      "stockQuantity": 8,
+      "featured": true,
+      "status": "published",
+      "images": [
+        "/src/assets/images/golf_driver_titanium_pro_1794483678734.jpg"
+      ],
+      "hand": "Right-Handed",
+      "flex": "Stiff",
+      "rating": 4.9,
+      "reviewCount": 51,
+      "createdAt": "2026-02-05T08:00:00Z",
+      "specifications": [
+        {
+          "label": "MOI",
+          "value": "10,000 g/cm² class"
+        },
+        {
+          "label": "Face",
+          "value": "60X Carbon Twist Face"
+        },
+        {
+          "label": "Shaft",
+          "value": "Mitsubishi Diamana T+ 60"
+        },
+        {
+          "label": "Loft Options",
+          "value": "9.0°, 10.5°, 12.0°"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v5-1",
+          "name": "9.0° Stiff Shaft",
+          "sku": "TM-QI10-9-S",
+          "price": 56999,
+          "stock": 5,
+          "attributes": {
+            "loft": "9.0°",
+            "flex": "Stiff"
+          }
+        },
+        {
+          "id": "v5-2",
+          "name": "10.5° Regular Shaft",
+          "sku": "TM-QI10-10-R",
+          "price": 56999,
+          "stock": 3,
+          "attributes": {
+            "loft": "10.5°",
+            "flex": "Regular"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prod-6",
+      "sku": "CLB-TIT-T150-IRN",
+      "name": "Titleist T150 Forged Players Distance Iron Set (4-PW)",
+      "slug": "titleist-t150-forged-iron-set",
+      "brand": "Titleist",
+      "category": "golf-clubs",
+      "shortDescription": "Dual-cavity forged construction delivering tour-validated workability and extra speed.",
+      "description": "Built for the player looking for the precision of the tour-preferred T100 with boosted ball speeds and distance. Features aerospace-grade D18 tungsten weighting and 2-degree stronger lofts for penetrating trajectory.",
+      "regularPrice": 118999,
+      "salePrice": 109999,
+      "stockQuantity": 5,
+      "featured": true,
+      "status": "published",
+      "images": [
+        "/src/assets/images/golf_driver_titanium_pro_1794483678734.jpg"
+      ],
+      "hand": "Right-Handed",
+      "flex": "Stiff",
+      "rating": 5,
+      "reviewCount": 19,
+      "createdAt": "2026-02-10T12:00:00Z",
+      "specifications": [
+        {
+          "label": "Set Composition",
+          "value": "7 Irons (4-PW)"
+        },
+        {
+          "label": "Shaft",
+          "value": "True Temper Dynamic Gold 105 S300"
+        },
+        {
+          "label": "Construction",
+          "value": "Fully Forged Dual Cavity"
+        },
+        {
+          "label": "Weighting",
+          "value": "Dense D18 Tungsten Brazing"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v6-1",
+          "name": "Stiff Flex / Steel Shaft",
+          "sku": "TIT-T150-ST",
+          "price": 109999,
+          "stock": 3,
+          "attributes": {
+            "flex": "Stiff",
+            "shaft": "Steel"
+          }
+        },
+        {
+          "id": "v6-2",
+          "name": "Regular Flex / Steel Shaft",
+          "sku": "TIT-T150-RG",
+          "price": 109999,
+          "stock": 2,
+          "attributes": {
+            "flex": "Regular",
+            "shaft": "Steel"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prod-7",
+      "sku": "CLB-SC-PHNTM-X5",
+      "name": "Scotty Cameron Phantom 5.5 Milled Putter",
+      "slug": "scotty-cameron-phantom-putter",
+      "brand": "Scotty Cameron",
+      "category": "golf-clubs",
+      "shortDescription": "Precision 303 stainless steel face with 6061 aircraft aluminum sole plate.",
+      "description": "Crafted to Scotty’s strict studio specifications, the Phantom 5.5 mallet features a small slant neck setup for players who favor a natural arc in their putting stroke. Acoustic vibration dampening delivers a solid, confidence-inspiring feedback.",
+      "regularPrice": 48999,
+      "stockQuantity": 7,
+      "featured": false,
+      "status": "published",
+      "images": [
+        "/src/assets/images/golf_driver_titanium_pro_1794483678734.jpg"
+      ],
+      "hand": "Right-Handed",
+      "rating": 4.9,
+      "reviewCount": 38,
+      "createdAt": "2026-02-12T16:20:00Z",
+      "specifications": [
+        {
+          "label": "Length",
+          "value": "34 inches / 35 inches"
+        },
+        {
+          "label": "Head Material",
+          "value": "Solid 303 Stainless Steel"
+        },
+        {
+          "label": "Lie Angle",
+          "value": "70°"
+        },
+        {
+          "label": "Loft",
+          "value": "3.5°"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v7-1",
+          "name": "34-Inch Length",
+          "sku": "SC-PHNTM-34",
+          "price": 48999,
+          "stock": 4,
+          "attributes": {
+            "length": "34\""
+          }
+        },
+        {
+          "id": "v7-2",
+          "name": "35-Inch Length",
+          "sku": "SC-PHNTM-35",
+          "price": 48999,
+          "stock": 3,
+          "attributes": {
+            "length": "35\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "prod-8",
+      "sku": "BALL-TIT-PROV1X-12",
+      "name": "Titleist Pro V1x Tour Performance Balls",
+      "slug": "titleist-pro-v1x-golf-balls",
+      "brand": "Titleist",
+      "category": "golf-balls",
+      "shortDescription": "High trajectory, low long-game spin, and maximum Drop-and-Stop greenside control.",
+      "description": "The preferred choice of major champions. Engineered with a reformulated 2.0 ZG Process Dual Core for heightened ball velocity and a spherically tiled 348 tetrahedral dimple design for high flight consistency.",
+      "regularPrice": 5999,
+      "salePrice": 5499,
+      "stockQuantity": 40,
+      "featured": false,
+      "status": "published",
+      "images": [
+        "/src/assets/images/golf_tour_balls_pack_1794483680033.jpg"
+      ],
+      "rating": 5,
+      "reviewCount": 88,
+      "createdAt": "2026-02-15T09:00:00Z",
+      "specifications": [
+        {
+          "label": "Core",
+          "value": "Reformulated Dual Core"
+        },
+        {
+          "label": "Casing Layer",
+          "value": "High-Flex Ionometric"
+        },
+        {
+          "label": "Cover",
+          "value": "Soft Cast Urethane Elastomer"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v8-1",
+          "name": "Standard White (12 Balls)",
+          "sku": "TIT-V1X-WHT",
+          "price": 5499,
+          "stock": 30,
+          "attributes": {
+            "color": "White"
+          }
+        },
+        {
+          "id": "v8-2",
+          "name": "High-Optic Yellow (12 Balls)",
+          "sku": "TIT-V1X-YEL",
+          "price": 5499,
+          "stock": 10,
+          "attributes": {
+            "color": "Yellow"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prod-9",
+      "sku": "GLV-CCDL-CABRET-M",
+      "name": "CCDL Master Tour Pure Cabretta Leather Glove",
+      "slug": "ccdl-pure-cabretta-leather-glove",
+      "brand": "CCDL Tour Edition",
+      "category": "golf-gloves",
+      "shortDescription": "Grade AAA Ethiopian Cabretta sheepskin leather with micro-perforations for moisture dissipation.",
+      "description": "Tanned exclusively for CCDL with Scotchgard protective treatment. Provides tactile feedback, gripping tackiness even in humid tropical climates, and angled Velcro tab closure.",
+      "regularPrice": 2299,
+      "salePrice": 1899,
+      "stockQuantity": 50,
+      "featured": false,
+      "status": "published",
+      "images": [
+        "/src/assets/images/golf_tour_balls_pack_1794483680033.jpg"
+      ],
+      "rating": 4.8,
+      "reviewCount": 22,
+      "createdAt": "2026-02-18T10:00:00Z",
+      "specifications": [
+        {
+          "label": "Material",
+          "value": "Grade AAA Ethiopian Cabretta"
+        },
+        {
+          "label": "Ventilation",
+          "value": "Laser-perforated fingers"
+        },
+        {
+          "label": "Hand Fit",
+          "value": "Cadet & Standard contours"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v9-1",
+          "name": "Left Hand (for Right Hand Golfer) - Small",
+          "sku": "GLV-CAB-S",
+          "price": 1899,
+          "stock": 15,
+          "attributes": {
+            "size": "S"
+          }
+        },
+        {
+          "id": "v9-2",
+          "name": "Left Hand (for Right Hand Golfer) - Medium",
+          "sku": "GLV-CAB-M",
+          "price": 1899,
+          "stock": 20,
+          "attributes": {
+            "size": "M"
+          }
+        },
+        {
+          "id": "v9-3",
+          "name": "Left Hand (for Right Hand Golfer) - Large",
+          "sku": "GLV-CAB-L",
+          "price": 1899,
+          "stock": 15,
+          "attributes": {
+            "size": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prod-10",
+      "sku": "APP-GAUNT-POLO-NAVY",
+      "name": "The House of Gaunt Tour Pique Technical Polo",
+      "slug": "house-of-gaunt-tour-pique-technical-polo",
+      "brand": "The House of Gaunt",
+      "category": "golf-clothing",
+      "shortDescription": "4-way stretch Italian micro-pique with UPF 50+ UV solar defense and moisture management.",
+      "description": "Crisp self-fabric collar with internal stays maintains shape through 18 holes and repeated laundering. Concealed three-button placket and side split hem designed specifically to remain tucked during full rotational swings.",
+      "regularPrice": 4499,
+      "salePrice": 3799,
+      "stockQuantity": 30,
+      "featured": false,
+      "status": "published",
+      "images": [
+        "/src/assets/images/golf_premium_shoes_1794483679581.jpg"
+      ],
+      "rating": 4.7,
+      "reviewCount": 15,
+      "createdAt": "2026-02-20T11:45:00Z",
+      "specifications": [
+        {
+          "label": "Fabric",
+          "value": "88% Recycled Poly, 12% Spandex"
+        },
+        {
+          "label": "Sun Protection",
+          "value": "UPF 50+ Certified"
+        },
+        {
+          "label": "Fit",
+          "value": "Modern Athletic Tailored"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v10-1",
+          "name": "Deep Forest Green / Medium",
+          "sku": "POLO-GRN-M",
+          "price": 3799,
+          "stock": 10,
+          "attributes": {
+            "size": "M",
+            "color": "Deep Forest Green"
+          }
+        },
+        {
+          "id": "v10-2",
+          "name": "Deep Forest Green / Large",
+          "sku": "POLO-GRN-L",
+          "price": 3799,
+          "stock": 12,
+          "attributes": {
+            "size": "L",
+            "color": "Deep Forest Green"
+          }
+        },
+        {
+          "id": "v10-3",
+          "name": "Arctic White / Large",
+          "sku": "POLO-WHT-L",
+          "price": 3799,
+          "stock": 8,
+          "attributes": {
+            "size": "L",
+            "color": "Arctic White"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prod-11",
+      "sku": "ACC-BUSHNELL-X3",
+      "name": "Bushnell Pro X3+ Laser Rangefinder",
+      "slug": "bushnell-pro-x3-laser-rangefinder",
+      "brand": "Bushnell Golf",
+      "category": "golf-accessories",
+      "shortDescription": "Slope with elements (temperature & barometric pressure) and visual JOLT vibration confirmation.",
+      "description": "The definitive tournament rangefinder with 7x magnification and Dual Display technology allowing instantaneous toggle between bright red or crisp black readouts depending on lighting conditions.",
+      "regularPrice": 56999,
+      "salePrice": 51999,
+      "stockQuantity": 11,
+      "featured": true,
+      "status": "published",
+      "images": [
+        "/src/assets/images/golf_driver_titanium_pro_1794483678734.jpg"
+      ],
+      "rating": 4.9,
+      "reviewCount": 31,
+      "createdAt": "2026-02-22T15:10:00Z",
+      "specifications": [
+        {
+          "label": "Range",
+          "value": "5 - 1300 yards (600+ to flag)"
+        },
+        {
+          "label": "Accuracy",
+          "value": "Accurate to within 1 yard"
+        },
+        {
+          "label": "Waterproofing",
+          "value": "IPX7 fully submersible"
+        },
+        {
+          "label": "Optics",
+          "value": "7x Magnification Multi-Coated"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v11-1",
+          "name": "Standard Edition with Tour Case",
+          "sku": "BUSH-X3-STD",
+          "price": 51999,
+          "stock": 11,
+          "attributes": {
+            "edition": "Standard"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prod-12",
+      "sku": "TRN-WELLPUTT-3M",
+      "name": "Wellputt 3-Meter Precision Putting Training Mat",
+      "slug": "wellputt-3m-precision-putting-mat",
+      "brand": "CCDL Tour Edition",
+      "category": "training-equipment",
+      "shortDescription": "Engineered roll speed matching 10/11.5 on the Stimp meter with directional muscle-memory markings.",
+      "description": "Endorsed by Cameron McCormick (coach to Jordan Spieth). Provides precise visual mapping for start-line alignment, roll speed calibration, and green-reading accuracy from 3 to 10 feet.",
+      "regularPrice": 12999,
+      "salePrice": 10499,
+      "stockQuantity": 18,
+      "featured": false,
+      "status": "published",
+      "images": [
+        "/src/assets/images/golf_tour_leather_bag_1794483679825.jpg"
+      ],
+      "rating": 4.9,
+      "reviewCount": 27,
+      "createdAt": "2026-02-24T13:00:00Z",
+      "specifications": [
+        {
+          "label": "Length",
+          "value": "3 Meters (10 Feet)"
+        },
+        {
+          "label": "Width",
+          "value": "50 cm (20 Inches)"
+        },
+        {
+          "label": "Stimp Speed",
+          "value": "10 to 11.5 ft rollout speed"
+        },
+        {
+          "label": "Material",
+          "value": "Non-crease velvet turf with rubber backing"
+        }
+      ],
+      "variants": [
+        {
+          "id": "v12-1",
+          "name": "Classic Green 3M",
+          "sku": "WP-3M-GRN",
+          "price": 10499,
+          "stock": 18,
+          "attributes": {
+            "length": "3m"
+          }
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "slug": "golf-clubs",
+      "name": "Golf Clubs",
+      "description": "Drivers, fairway woods, hybrids, forged irons, wedges, and precision putters",
+      "productCount": 6
+    },
+    {
+      "id": "cat-2",
+      "slug": "golf-balls",
+      "name": "Golf Balls",
+      "description": "Tour-tier multi-layer urethane balls engineered for optimal trajectory and greenside spin",
+      "productCount": 3
+    },
+    {
+      "id": "cat-3",
+      "slug": "golf-bags",
+      "name": "Golf Bags",
+      "description": "Handcrafted leather tour staff bags, lightweight stand bags, and water-resistant cart carriers",
+      "productCount": 3
+    },
+    {
+      "id": "cat-4",
+      "slug": "golf-shoes",
+      "name": "Golf Shoes",
+      "description": "Waterproof full-grain leather spikeless and soft-spiked shoes for all-day comfort",
+      "productCount": 3
+    },
+    {
+      "id": "cat-5",
+      "slug": "golf-gloves",
+      "name": "Golf Gloves",
+      "description": "Ultra-thin AAA Ethiopian Cabretta leather gloves offering second-skin feedback",
+      "productCount": 2
+    },
+    {
+      "id": "cat-6",
+      "slug": "golf-clothing",
+      "name": "Golf Clothing",
+      "description": "High-performance quick-dry UV50+ technical polos, tailored trousers, and wind vests",
+      "productCount": 3
+    },
+    {
+      "id": "cat-7",
+      "slug": "golf-accessories",
+      "name": "Golf Accessories",
+      "description": "Precision laser rangefinders, magnetic tour towels, milled divot tools, and hardwood tees",
+      "productCount": 3
+    },
+    {
+      "id": "cat-8",
+      "slug": "training-equipment",
+      "name": "Training Equipment",
+      "description": "PGA-certified putting mats, portable launch monitors, and swing speed training aids",
+      "productCount": 2
+    }
+  ],
+  "brands": [
+    {
+      "id": "b-1",
+      "name": "CCDL Tour Edition",
+      "slug": "ccdl-tour-edition",
+      "country": "India",
+      "description": "Bespoke precision golf equipment developed by Climate Change Digital Labs."
+    },
+    {
+      "id": "b-2",
+      "name": "Callaway",
+      "slug": "callaway",
+      "country": "USA",
+      "description": "World leader in game-improvement and tour-level golf drivers, woods, and irons."
+    },
+    {
+      "id": "b-3",
+      "name": "TaylorMade",
+      "slug": "taylormade",
+      "country": "USA",
+      "description": "Pioneers in carbon wood technology and high-MOI forgiving club engineering."
+    },
+    {
+      "id": "b-4",
+      "name": "Titleist",
+      "slug": "titleist",
+      "country": "USA",
+      "description": "The #1 ball in golf and maker of industry-standard Vokey wedges and Scotty Cameron putters."
+    },
+    {
+      "id": "b-5",
+      "name": "Mizuno",
+      "slug": "mizuno",
+      "country": "Japan",
+      "description": "Legendary Grain Flow Forged irons delivering unmatched acoustic feel and workability."
+    },
+    {
+      "id": "b-6",
+      "name": "Ping",
+      "slug": "ping",
+      "country": "USA",
+      "description": "Iconic custom fitting pioneers renowned for legendary forgiveness and putters."
+    },
+    {
+      "id": "b-7",
+      "name": "Scotty Cameron",
+      "slug": "scotty-cameron",
+      "country": "USA",
+      "description": "Milled precision studio putters used by major championship winners worldwide."
+    },
+    {
+      "id": "b-8",
+      "name": "Bushnell Golf",
+      "slug": "bushnell",
+      "country": "USA",
+      "description": "The undisputed benchmark in laser rangefinders and pin-seeking optics."
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1041",
+      "orderNumber": "CCDL-2026-1041",
+      "customerEmail": "sandeepaliens01@gmail.com",
+      "customerPhone": "+91 98450 12345",
+      "shippingAddress": {
+        "fullName": "Sandeep Rao",
+        "email": "sandeepaliens01@gmail.com",
+        "phone": "+91 98450 12345",
+        "streetAddress": "42, Prestige Golfshire Villa 18",
+        "apartment": "Nandi Hills Road",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "postalCode": "562110",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "prod-1",
+          "productName": "CCDL Aurum Titanium EVO 9.0° Driver",
+          "sku": "CCDL-DRV-AURUM9-ST",
+          "variantId": "v1-1",
+          "variantName": "9.0° / Stiff Flex / Right-Hand",
+          "quantity": 1,
+          "price": 48999,
+          "image": "/src/assets/images/golf_driver_titanium_pro_1794483678734.jpg"
+        },
+        {
+          "productId": "prod-4",
+          "productName": "CCDL Tour Urethane 3-Piece Golf Balls (Dozen)",
+          "sku": "BALL-TOURX-12",
+          "variantId": "v4-1",
+          "variantName": "1 Dozen (12 Balls)",
+          "quantity": 2,
+          "price": 4299,
+          "image": "/src/assets/images/golf_tour_balls_pack_1794483680033.jpg"
+        }
+      ],
+      "subtotal": 57597,
+      "discountAmount": 5000,
+      "couponCode": "FAIRWAY10",
+      "shippingFee": 0,
+      "taxAmount": 9467,
+      "totalAmount": 62064,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "orderStatus": "shipped",
+      "razorpayOrderId": "order_rzp_mock_99182",
+      "razorpayPaymentId": "pay_rzp_mock_881726",
+      "shiprocketAwb": "SR-IN-981273910",
+      "shiprocketStatus": "In Transit",
+      "trackingHistory": [
+        {
+          "status": "Order Placed & Confirmed",
+          "location": "Bengaluru Central Hub",
+          "timestamp": "2026-03-01 10:14 IST",
+          "note": "Payment verified via Razorpay."
+        },
+        {
+          "status": "Package Assembled & Custom Fitted",
+          "location": "CCDL Fitting Studio, Indiranagar",
+          "timestamp": "2026-03-01 16:30 IST",
+          "note": "Clubhead inspected and loft calibrated."
+        },
+        {
+          "status": "Handed Over to Shiprocket Courier",
+          "location": "BlueDart Air Express Hub, Kempegowda",
+          "timestamp": "2026-03-02 09:45 IST",
+          "note": "Airway bill SR-IN-981273910 generated."
+        },
+        {
+          "status": "Arrived at Regional Sort Center",
+          "location": "Bangalore North Sorting Facility",
+          "timestamp": "2026-03-02 18:20 IST",
+          "note": "Shipment sorted for final delivery leg."
+        }
+      ],
+      "createdAt": "2026-03-01T10:14:00Z",
+      "updatedAt": "2026-03-02T18:20:00Z"
+    }
+  ],
+  "customers": [
+    {
+      "id": "cust-1",
+      "fullName": "Sandeep Rao",
+      "email": "sandeepaliens01@gmail.com",
+      "phone": "+91 98450 12345",
+      "role": "customer",
+      "addresses": [
+        {
+          "fullName": "Sandeep Rao",
+          "email": "sandeepaliens01@gmail.com",
+          "phone": "+91 98450 12345",
+          "streetAddress": "42, Prestige Golfshire Villa 18",
+          "apartment": "Nandi Hills Road",
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "postalCode": "562110",
+          "country": "India"
+        }
+      ],
+      "totalOrders": 1,
+      "totalSpent": 62064,
+      "createdAt": "2026-01-10T08:00:00Z"
+    },
+    {
+      "id": "cust-2",
+      "fullName": "Arjun Singhania",
+      "email": "arjun.singhania@dlfgolf.com",
+      "phone": "+91 98110 54321",
+      "role": "customer",
+      "addresses": [],
+      "totalOrders": 3,
+      "totalSpent": 142000,
+      "createdAt": "2026-01-18T14:30:00Z"
+    },
+    {
+      "id": "cust-admin",
+      "fullName": "CCDL Store Administrator",
+      "email": "admin@fairwaylinks.ccdl.in",
+      "phone": "+91 80 4123 9900",
+      "role": "admin",
+      "addresses": [],
+      "totalOrders": 0,
+      "totalSpent": 0,
+      "createdAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "prod-1",
+      "customerName": "Col. Vikram Rathore (Retd.)",
+      "rating": 5,
+      "title": "Gained 18 yards off the tee at Delhi Golf Club",
+      "comment": "The acoustic sound at impact is muted and solid, reminiscent of Japanese forged tour heads. The Fujikura Ventus shaft keeps low spin even into headwind.",
+      "verifiedPurchase": true,
+      "createdAt": "2026-02-14T09:20:00Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-2",
+      "productId": "prod-2",
+      "customerName": "Dr. Siddharth Nair",
+      "rating": 5,
+      "title": "Exquisite leather craftsmanship and attention to detail",
+      "comment": "The saddle leather smells incredible and turns heads on every tee box at KGA. The brass zippers glide smoothly and the velvet top protects graphite shafts.",
+      "verifiedPurchase": true,
+      "createdAt": "2026-02-19T14:10:00Z",
+      "status": "approved"
+    },
+    {
+      "id": "rev-3",
+      "productId": "prod-3",
+      "customerName": "Rohit Kulkarni",
+      "rating": 5,
+      "title": "Completely waterproof during heavy monsoon round",
+      "comment": "Played in 3 hours of drizzle at Poona Club. My socks were completely bone dry, and traction on wet side-hill lies was rock solid.",
+      "verifiedPurchase": true,
+      "createdAt": "2026-02-25T11:00:00Z",
+      "status": "approved"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "c-1",
+      "code": "FAIRWAY10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minPurchaseAmount": 4999,
+      "maxDiscount": 5000,
+      "expiryDate": "2027-12-31",
+      "isActive": true,
+      "usageCount": 142,
+      "description": "10% discount on orders above ₹4,999 (Max ₹5,000)"
+    },
+    {
+      "id": "c-2",
+      "code": "EAGLE2000",
+      "discountType": "fixed",
+      "discountValue": 2000,
+      "minPurchaseAmount": 19999,
+      "expiryDate": "2027-12-31",
+      "isActive": true,
+      "usageCount": 68,
+      "description": "Flat ₹2,000 off on premium golf gear over ₹19,999"
+    },
+    {
+      "id": "c-3",
+      "code": "CCDLVIP",
+      "discountType": "percentage",
+      "discountValue": 15,
+      "minPurchaseAmount": 29999,
+      "maxDiscount": 10000,
+      "expiryDate": "2027-12-31",
+      "isActive": true,
+      "usageCount": 29,
+      "description": "15% exclusive discount for CCDL VIP Club members"
+    }
+  ],
+  "settings": {
+    "storeName": "The House of Gaunt",
+    "supportEmail": "concierge@houseofgaunt.in",
+    "supportPhone": "+91 80 4123 9900",
+    "currency": "INR",
+    "currencySymbol": "₹",
+    "gstRate": 18,
+    "freeShippingThreshold": 5000,
+    "standardShippingFee": 350,
+    "expressShippingFee": 750,
+    "razorpayKeyId": "rzp_test_ccdl99golfindia",
+    "razorpayTestMode": true,
+    "shiprocketMode": "sandbox",
+    "bannerAnnouncement": "Complimentary Pan-India Air Express Delivery on Golf Equipment Orders over ₹5,000 · Certified 100% Genuine Tour Gear",
+    "bannerEnabled": true
+  },
+  "blogPosts": [
+    {
+      "id": "post-1",
+      "slug": "optimizing-driver-launch-angles-indian-courses",
+      "title": "Dialing in Launch Angle & Spin Rates on Indian Championship Fairways",
+      "excerpt": "How course elevation, morning dew, and grass density in Delhi, Bangalore, and Mumbai dictate your clubhead setup.",
+      "category": "Equipment Insights",
+      "author": "Gaurav Khanna, Head Fitting Specialist",
+      "readTime": "6 min read",
+      "publishedAt": "March 4, 2026",
+      "content": "Indian golf courses present diverse micro-climates. From the morning dew and bentgrass greens of Prestige Golfshire in Bangalore to the undulating kikuyu turf and high humidity at the Royal Calcutta Golf Club, one driver configuration does not suit every venue.\n\nWhen setting up your driver for Indian conditions, launch angle and spin rates become the defining variables. For players averaging 95 to 105 mph swing speeds, aiming for a launch angle between 12.5° and 14.2° with backspin between 2,100 and 2,400 RPM produces the optimum combination of carry distance and roll-out.\n\nShaft stiffness and tip profile play an equally vital role. Fujikura Ventus profiles featuring VeloCore technology stabilize the clubhead through maximum rotational torque, reducing dispersion on tight tree-lined corridors like Delhi Golf Club's famous bush-lined fairways."
+    },
+    {
+      "id": "post-2",
+      "slug": "cast-vs-forged-irons-feel-and-performance",
+      "title": "Cast vs. Forged Irons: Dissecting Acoustics, Feel, and Turf Interaction",
+      "excerpt": "Why master players gravitate toward Japanese Grain Flow Forged irons and how modern dual-cavity technology provides forgiveness.",
+      "category": "Club Tech",
+      "author": "Climate Change Digital Labs Tech Desk",
+      "readTime": "5 min read",
+      "publishedAt": "February 26, 2026",
+      "content": "The debate between forged and cast iron construction has intrigued golfers for decades. At The House of Gaunt, we look at the metallurgical science behind the strike.\n\nForging involves heating a solid billet of 1025E mild carbon steel and compressing it under hydraulic hammers up to 1,000 tons of pressure. This aligns the molecular grain structure of the steel consistently across the head, damping harsh vibrations upon impact.\n\nConversely, investment casting pours molten steel into ceramic molds. Casting allows perimeter weighting and ultra-thin faces, but traditional cast stainless steel has a higher resonant frequency—often perceived by players as a \"clicky\" or rigid strike. Modern engineering has bridged this gap with tungsten perimeter weighting welded onto a forged chassis."
+    },
+    {
+      "id": "post-3",
+      "slug": "caring-for-cabretta-leather-gloves-in-tropical-humidity",
+      "title": "Preserving Tour-Grade Cabretta Leather Gloves in Tropical Climates",
+      "excerpt": "Simple maintenance rituals to prevent leather crusting and double the lifespan of your tour gloves.",
+      "category": "Gear Maintenance",
+      "author": "Ananya Deshmukh, Apparel Curator",
+      "readTime": "4 min read",
+      "publishedAt": "February 12, 2026",
+      "content": "AAA Cabretta sheepskin leather offers exceptional grip because of its porous natural lipid structure. However, exposure to perspiration, sunscreen lotions, and high humidity during Indian summer rounds can harden the leather if not properly stored.\n\nAlways alternate between two gloves during a single round in peak summer. Keep a glove shaper or lay the glove flat on the exterior of your golf bag's Velcro patch rather than crumpling it inside a dark zipper compartment. Never dry leather gloves under direct sunlight or with artificial heat sources."
+    }
+  ]
+}
